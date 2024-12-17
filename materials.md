@@ -3,18 +3,8 @@ layout: page
 title: Materials
 permalink: /materials/
 ---
+## Texts
 
-{% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
-
-## Book
-
-Alan Turing and Noam Chomsky: Very Famous Book
-
-## Additional Course Materials
-
-* If you are not familiar with Python programming, use any online tutorial to get a handle of it.
-* [Material #1](http://www.example.com/): how a computer chess player thinks!
-* [Material #2](http://www.example.com/): how a computer chess player thinks!
-* [Material #3](http://www.example.com/): how a computer chess player thinks!
-* [Material #4](http://www.example.com/): how a computer chess player thinks!
-* [Material #5](http://www.example.com/): how a computer chess player thinks!
+- [Fullerton, T. (2008). *Game Design Workshop*. In CRC Press eBooks.](https://doi.org/10.1201/b13172)
+- Perry, D., & DeMaria, R. (2009). *David Perry on Game Design: A Brainstorming Toolbox*. Charles River Media.
+- Brathwaite, B., & Schreiber, I. (2009). *Challenges for Game Designers*. Charles River Media.

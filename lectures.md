@@ -3,4 +3,4 @@ layout: lectures
 title: Lectures
 permalink: /lectures/
 ---
-You can download the lectures here. We will try to upload lectures prior to their corresponding classes.
+These are tentative lecture plans, we will adjust our class based on student feedback. We will provide recording and slides after class. Please check this page often!
