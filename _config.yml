@@ -3,7 +3,7 @@ course_name: CIS 5640 Game Design and Development
 course_description: "Let's explores game design principles and development!"
 course_semester: "Spring 2025"
 
-baseurl: "/page/" # the subpath of your site, e.g. /blog/
+baseurl: " # the subpath of your site, e.g. /blog/
 url: "https://cis-5640-spring-2025.github.io" # the base hostname & protocol for your site
 
 schoolname: "University of Pennsylvania"
