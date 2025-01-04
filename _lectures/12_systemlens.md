@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-04-08T10:15:00-05:00
-title: Feedback and Feel (4/1)
+title: Feedback and Feel (4/8)
 tldr: "Learn how feedback and sensations in games create clarity and satisfying experiences."
 thumbnail: /_images/screenshots/themes.png
 hide_from_announcments: true

@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-04-15T10:15:00-05:00
-title: Tutorialization (4/8)
+title: Tutorialization (4/15)
 tldr: "Explore how to effectively teach players to understand and engage with your game."
 thumbnail: /_images/screenshots/themes.png
 hide_from_announcments: true

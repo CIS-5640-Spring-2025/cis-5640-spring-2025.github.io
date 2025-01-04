@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-04-01T10:15:00-05:00
-title: Puzzles and Player Knowledge (3/25)
+title: Puzzles and Player Knowledge (4/1)
 tldr: "Explore how games manage player knowledge and create satisfying 'lightbulb' moments."
 thumbnail: /_images/screenshots/themes.png
 hide_from_announcments: true

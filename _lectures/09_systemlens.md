@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-03-18T10:15:00-05:00
-title: Chance (3/11)
+title: Chance (3/18)
 tldr: "Understand the role of randomness in games, its types, and how it shapes player experiences."
 thumbnail: /_images/screenshots/themes.png
 hide_from_announcments: true
