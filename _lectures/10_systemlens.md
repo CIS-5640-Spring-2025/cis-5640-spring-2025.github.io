@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-03-18T10:15:00-05:00
+date: 2025-03-25T10:15:00-05:00
 title: Action - Twitch Mechanics (3/18)
 tldr: "Explore the athleticism in games, focusing on speed, dexterity, and skill-driven mechanics."
 thumbnail: /_images/screenshots/themes.png
