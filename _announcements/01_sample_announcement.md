@@ -11,7 +11,7 @@ Spoilers, because this is a class about games, some of our assignments will invo
 
 No pressure at all to do anything before the semester starts (nothing will be due until the second week of class), but if the spirit moves you, feel free to play some minecraft thoughtfully to get ahead of the game :)
 
-Please also join our class discord server! It will be an important space for gathering and discussion. If you’re not already on discord, now is your time to join! Create an account and use the link below to join.
+Please also join our class discord server! It will be an important space for gathering and discussion. If you’re not already on discord, now is your time to join!
 
 Happy holidays all! I hope you are spending your time playing ✨
 
