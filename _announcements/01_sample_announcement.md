@@ -13,8 +13,6 @@ No pressure at all to do anything before the semester starts (nothing will be du
 
 Please also join our class discord server! It will be an important space for gathering and discussion. If you’re not already on discord, now is your time to join! Create an account and use the link below to join.
 
-**https://discord.gg/U5x5ZcX3**
-
 Happy holidays all! I hope you are spending your time playing ✨
 
 -Rui
