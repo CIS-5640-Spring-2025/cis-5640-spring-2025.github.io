@@ -18,7 +18,7 @@ Don't worry—it’s designed to be easy and should only take about **1-2 hours*
 
 ---
 
-### Task Details
+### **Task Details**
 
 Play Minecraft and answer a few questions. If you’ve never played Minecraft before, we encourage you to ping the course discord and play with someone familiar with the game :)
 
@@ -54,11 +54,13 @@ After completing both playthroughs, submit a short write-up addressing the follo
 
  No need to write a full essay (unless you feel like it). A few sentences will do.
 
-### Submission Instructions
+### **Submission Instructions**
 
-Please submit your write-up once we setup the canvas. We also encourage you to share your experience through discord!
+Please submit your write-up on Canvas.
 
-### Minecraft Education Setup
+We also encourage you to share your experience through discord! Please check the **announcement channel** under "COURSE RELATED" category for discord submission instruction.
+
+### **Minecraft Education Setup**
 
 If you don’t have access to the standard version of Minecraft, you can use **Minecraft Education**! It functions just like regular Minecraft, and, thanks to UPenn’s Office 365 subscription, all institution members have access to Minecraft Education, including **free multiplayer servers**—so you can play with others and share your achievements!
 

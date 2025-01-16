@@ -1,6 +1,9 @@
 ---
 layout: home
 ---
+
+![Pics](\_images\pp\classroom1.jpg)  
+
 ## Course Objectives
 
 This course will provide students with an introduction to the core creative principles, concepts, and game play structures underlying most games. This course will also focus on the game development process from a design point of view through hands-on design workshops and assignments.
@@ -12,3 +15,5 @@ By the end of the course, students will be familiar with game development from a
 ## Course Format
 
 The course will consist mainly of lectures, in class workshop exercises, game design assignments and one final project. Each week, there will be one lecture, one workshop and one assignment, until the final project, for which students will be given three weeks to work on. Grading will be based as follows: **30% workshop exercises, 40% assignments and 30% final project**.
+
+![Pics](\_images\pp\classroom2.jpg)  
