@@ -7,7 +7,7 @@ due_event:
     type: due
     date: 2025-01-20T23:59:59-5:00
     description: 'Assignment #0 due'
-hide_from_announcments: false
+hide_from_announcments: true
 ---
 
 **Hello everyone, welcome to the course!** We hope you are enjoying your holiday break! To give you a glimpse of what this class will involve, we are introducing **Assignment #0:**
