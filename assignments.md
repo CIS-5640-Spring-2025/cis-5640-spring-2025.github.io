@@ -1,6 +1,6 @@
 ---
 layout: assignments
-title: Assignments & Workshops
+title: Assignments & Labs
 permalink: /assignments/
 ---
-You can download the assignments here. Also check out each assignment page for any additional info.
+You can download the assignments and labs here. Also check out each page for any additional info.
