@@ -7,7 +7,7 @@ due_event:
     type: due
     date: 2025-01-23T11:45:59-5:00
     description: 'Lab #1'
-hide_from_announcments: false
+hide_from_announcments: true
 ---
 
 Welcome to our first in class lab\! Today we’re going to take a classic card game, Egyptian Rat Screw, and make some changes to it to see how those changes impact the player experience of the game. The goal of the lab is to sharpen our ability to understand how game mechanics affect the player experience.
