@@ -7,7 +7,7 @@ due_event:
     type: due
     date: 2025-01-27T23:59:59-5:00
     description: 'Assignment #1 due'
-hide_from_announcments: false
+hide_from_announcments: true
 ---
 
 Let’s practice analyzing the relationship between game mechanics and the player experience they create. Using the [Mechanics, Dynamics, Aesthetics framework](https://users.cs.northwestern.edu/~hunicke/MDA.pdf), analyze a game of your choosing. No need to write an essay – there’s no required length for this assignment, but you should be as specific as possible.
