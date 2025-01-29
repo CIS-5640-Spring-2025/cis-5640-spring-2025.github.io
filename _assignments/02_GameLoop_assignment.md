@@ -7,7 +7,7 @@ due_event:
     type: due
     date: 2025-02-03T23:59:59-5:00
     description: 'Assignment #2 due'
-hide_from_announcments: false
+hide_from_announcments: true
 ---
 
 For this assignment, you will be analyzing the core game loop of a complex game. The goal is to understand how game loops work together to create an engaging player experience. By focusing on a game with **multiple interacting loops**, you will gain deeper insights into how design choices impact gameplay, player motivation, and overall satisfaction.
