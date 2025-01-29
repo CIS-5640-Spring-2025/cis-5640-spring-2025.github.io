@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2025-01-28T22:00:00-5:00
-title: 'Assignment #1 - Analyzing Game Loops'
+title: 'Assignment #2 - Analyzing Game Loops'
 pdf: /static_files/assignments/Assignment2.pdf
 due_event: 
     type: due
