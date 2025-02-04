@@ -91,5 +91,5 @@ Welcome to Lab 3\! We will explore how **themes and mechanics** interact in game
    * Iterate\! Modify your rules, adjust your prototype and playtest again\!  
        
 4. **\[BONUS\] Time to reflect\!**  
-   * If you have extra time, you can begin writing up your reflection (individually) as detailed in your [homework assignment](https://docs.google.com/document/d/1mKLma0U3WMzF5cuQayZTRAwaRK0thmOc6gkr42SnH4U/edit?tab=t.0).  
+   * If you have extra time, you can begin writing up your reflection (individually) as detailed in your [homework assignment](https://cis-5640-spring-2025.github.io/assignments/03_Story_assignment).
    * Keep in mind that this lab will be running for two weeks so you will not need to write a complete game design doc as we will do so after our next lab.
