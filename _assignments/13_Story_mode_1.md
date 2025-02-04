@@ -51,27 +51,27 @@ Welcome to Lab 3\! We will explore how **themes and mechanics** interact in game
 
      
 
-     Once you’ve drawn your theme, gather with your teammates and choose one of the following rule constraints:
+   * Once you’ve drawn your theme, gather with your teammates and choose one of the following rule constraints:
 
-- **Asymmetry (1 vs 3\)**
+   * - **Asymmetry (1 vs 3\)**
 
-  One player has a different goal from the others
+   * One player has a different goal from the others
 
-- **Cooperative Gameplay** 
+   * - **Cooperative Gameplay** 
 
-  All players must work together toward a shared objective
+   * All players must work together toward a shared objective
 
-- **Character Roles** 
+   * - **Character Roles** 
 
-  Each player has unique abilities (eg. change current suit or rank) Warning: if these abilities are all very different, the game may become very difficult to tune. We suggest keeping it simple.
+   * Each player has unique abilities (eg. change current suit or rank) Warning: if these abilities are all very different, the game may become very difficult to tune. We suggest keeping it simple.
 
-- **Get Physical**
+   * - **Get Physical**
 
-  Incorporate physical movement as a part of the game like saying “UNO\!” when you only have 1 card left.
+   * Incorporate physical movement as a part of the game like saying “UNO\!” when you only have 1 card left.
 
-- **Time Limit**
+   * - **Time Limit**
 
-  Players must win within a set number of turns
+   * Players must win within a set number of turns
 
 
   * The group must now integrate both the theme and the rule constraint into their version of Crazy Eights.  
