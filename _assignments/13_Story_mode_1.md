@@ -49,40 +49,40 @@ Welcome to Lab 3\! We will explore how **themes and mechanics** interact in game
 
      5\.	**Supernatural Mysteries** – Players are ghost hunters or spirits.
 
-     
 
    * Once you’ve drawn your theme, gather with your teammates and choose one of the following rule constraints:
 
-   * - **Asymmetry (1 vs 3\)**
+     * **Asymmetry (1 vs 3\)**
 
-   * One player has a different goal from the others
+       One player has a different goal from the others
 
-   * - **Cooperative Gameplay** 
+     * **Cooperative Gameplay** 
 
-   * All players must work together toward a shared objective
+       All players must work together toward a shared objective
 
-   * - **Character Roles** 
+     * **Character Roles** 
 
-   * Each player has unique abilities (eg. change current suit or rank) Warning: if these abilities are all very different, the game may become very difficult to tune. We suggest keeping it simple.
+       Each player has unique abilities (eg. change current suit or rank) Warning: if these abilities are all very different, the game may become very difficult to tune. We suggest keeping it simple.
 
-   * - **Get Physical**
+     * **Get Physical**
 
-   * Incorporate physical movement as a part of the game like saying “UNO\!” when you only have 1 card left.
+       Incorporate physical movement as a part of the game like saying “UNO\!” when you only have 1 card left.
 
-   * - **Time Limit**
+     * **Time Limit**
 
-   * Players must win within a set number of turns
+       Players must win within a set number of turns
 
 
-  * The group must now integrate both the theme and the rule constraint into their version of Crazy Eights.  
-  * You do not need to “finish” the game this week. This is a **difficult task** to accomplish quickly. Because we have two weeks to work on this game, start with the big picture. By the end of the session, you should know the following:  
-    1. Who are the players in this game?  
-    2. What is the world of this game and why do players want to achieve their goal?  
-    3. What does it mean to play a card? What does “winning” or “losing” mean?  
-    4. What is the core game loop?  
-    5. What’s your new game called? 😀  
-  * TIPS: This is the first time you will be working with a group of 4 designers, which can be very difficult to coordinate across\! Try not to get stuck in analysis paralysis. Not every idea needs to go into the game. Remember that game design is about process, not ideas. Not every idea needs to go into the game, and the most important contributions are not an “idea”, but how to make sure that idea is working well within the framework of the game. When in doubt, stop discussing and just playtest\! The prototype will help you make decisions.  
+    * The group must now integrate both the theme and the rule constraint into their version of Crazy Eights.  
+    * You do not need to “finish” the game this week. This is a **difficult task** to accomplish quickly. Because we have two weeks to work on this game, start with the big picture. By the end of the session, you should know the following:  
+      1. Who are the players in this game?  
+      2. What is the world of this game and why do players want to achieve their goal?  
+      3. What does it mean to play a card? What does “winning” or “losing” mean?  
+      4. What is the core game loop?  
+      5. What’s your new game called? 😀  
+    * TIPS: This is the first time you will be working with a group of 4 designers, which can be very difficult to coordinate across\! Try not to get stuck in analysis paralysis. Not every idea needs to go into the game. Remember that game design is about process, not ideas. Not every idea needs to go into the game, and the most important contributions are not an “idea”, but how to make sure that idea is working well within the framework of the game. When in doubt, stop discussing and just playtest\! The prototype will help you make decisions.  
       
+	  
 3. **Prototype and playtest your games\!**  
    * Once your group has finalized the game rules, play at least one full round of your newly designed version.   
    * Evaluate your own design. Ask yourselves:  
