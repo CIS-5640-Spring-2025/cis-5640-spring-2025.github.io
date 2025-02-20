@@ -25,7 +25,7 @@ For this assignment, you will be thinking about the game design process, startin
 	5. **The Prototype**: What’s the fastest way to prototype this solution?  
 	6. **The Playtest Script**: How would you present the prototype to playtesters? What questions would you ask them?
 
-2. Do the same things, but for your adaptation of Crazy Eights. Identify a problem, walk through all the above steps, then actually run your playtest with a group of playtesters. Add two additional steps:
+2. (Due 3/3) Do the same things, but for your adaptation of Crazy Eights. Identify a problem, walk through all the above steps, then actually run your playtest with a group of playtesters. Add two additional steps:
    1. **The Analysis**: What kind of feedback did you get? What did you observe? Was your hypothesis correct?
    2. **The Iteration**: Based on your analysis, what would you do next to continue to improve the game?
 	  
