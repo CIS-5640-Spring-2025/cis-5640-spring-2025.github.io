@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2025-05-15T10:15:00-5:00
-title: 'Assignment #Infinity - Skill Share'
+title: 'Assignment #∞∞∞ - Skill Share'
 pdf: /static_files/assignments/SkillShare.pdf
 due_event: 
     type: due
