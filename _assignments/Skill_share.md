@@ -1,12 +1,12 @@
 ---
 type: assignment
 date: 2025-05-15T10:15:00-5:00
-title: 'Skill Share Assigment'
+title: 'Assignment #Infinity - Skill Share'
 pdf: /static_files/assignments/SkillShare.pdf
 due_event: 
     type: due
     date: 2025-05-15T23:59:59-5:00
-    description: 'Skill Share'
+    description: 'Skill Share Assignment Due'
 hide_from_announcments: true
 ---
 Over the next eight weeks, you will pair up with another student to learn a skill from them while teaching them a skill of your own. By April 8th, you will have submitted a 5-minute video or    
