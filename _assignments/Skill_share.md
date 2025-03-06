@@ -1,11 +1,11 @@
 ---
 type: assignment
-date: 2025-05-15T10:15:00-5:00
+date: 2025-03-06T11:45:00-5:00
 title: 'Assignment #∞ - Skill Share'
 pdf: /static_files/assignments/SkillShare.pdf
 due_event: 
     type: due
-    date: 2025-05-15T23:59:59-5:00
+    date: 2025-04-08T23:59:59-5:00
     description: 'Skill Share Assignment Due'
 hide_from_announcments: true
 ---
