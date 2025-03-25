@@ -3,8 +3,6 @@ layout: page
 title: Final Project
 permalink: /project/
 ---
-# **Final Project**
-
 # Objective
 
 This final project is your opportunity to apply all the game design principles and skills you have learned throughout the semester. We want you to create a board game from scratch, using your knowledge of game loops, aesthetics, mechanics, player choice, balance, and playtesting. This project will challenge you to think critically about game design, refine your creative process, and produce a fully playable board game.
