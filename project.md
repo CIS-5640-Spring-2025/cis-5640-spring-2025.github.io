@@ -3,6 +3,28 @@ layout: page
 title: Final Project
 permalink: /project/
 ---
+<!-- Final Work Showcase -->
+# Final Work Showcase!!
+_Click the image above to view our full final project presentation!_
+
+## Fatal Enterprises
+[![Fatal Enterprises](/_images/final/FatalEnterprises.png)](https://drive.google.com/file/d/1I3v6aWY01dU5N_rVjQv-_XmSn1S00tPT/view)
+
+## PACROPOLIS
+[![Pacropolis](/_images/final/PACROPOLIS.png)](https://www.youtube.com/watch?v=jAnrnXStb08)
+
+## HellRisers
+[![HellRisers](/_images/final/HellRisers.png)](https://drive.google.com/file/d/1I10Qsye-Boko0SNaS7lq2iFoFcGeupqs/view)
+
+## Syndicate: The Magnificent Saint Ander's Heist
+[![Syndicate: The Magnificent Saint Ander's Heist](/_images/final/Syndicate.png)](https://vimeo.com/1082026824/5030b99576?share=copy)
+
+## Dungeons and Ducks
+[![Dungeons and Ducks](/_images/final/DND.png)](https://drive.google.com/file/d/1zZ8U1ba7nvmhCU5s6iYQIzKaNkc4DX4U/view)
+
+## Overcooked: Deck Chaos
+[![Overcooked: Deck Chaos](/_images/final/Overcooked.png)](https://drive.google.com/file/d/1UZssyA_UTEwuI_1eBQ5D-Jwn-Dw_fn7Y/view)
+
 # Objective
 
 This final project is your opportunity to apply all the game design principles and skills you have learned throughout the semester. We want you to create a board game from scratch, using your knowledge of game loops, aesthetics, mechanics, player choice, balance, and playtesting. This project will challenge you to think critically about game design, refine your creative process, and produce a fully playable board game.
